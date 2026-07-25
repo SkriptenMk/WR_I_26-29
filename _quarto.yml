@@ -1,0 +1,39 @@
+project:
+  type: book
+  output-dir: _book
+  resources:
+    - "notebooks/**/*.ipynb"   # kopiert Original-Notebooks ins Output
+                               # → Voraussetzung für den Download-Link (Abschnitt 4)
+
+execute:
+  freeze: true                 # niemals Code beim Build neu ausführen
+
+book:
+  title: "Unterlagen für das Schwerpunktfach Wirtschaft und Recht in der Klasse 1gPW"
+  author: "Jacques Mock Schindler"
+  date: today
+  date-format: "DD. MMMM YYYY"
+  downloads: [pdf]             # PDF-Download-Button in der HTML-Navbar
+  chapters:                    # manuell gepflegtes Inhaltsverzeichnis
+    - index.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-tools: false
+  pdf:
+    documentclass: scrreprt     # KOMA-Script; scrreprt für einseitiges Layout
+    pdf-engine: lualatex
+    papersize: a4
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    colorlinks: true
+    lang: de
+    keep-tex: false            # bei Bedarf auf true für Debugging
+    include-in-header:
+      text: |
+        \KOMAoptions{parskip=half}
+        \let\origtextbackslash\textbackslash
+        \renewcommand{\textbackslash}{\origtextbackslash\allowbreak}
