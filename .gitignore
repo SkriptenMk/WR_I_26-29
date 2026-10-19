@@ -55,3 +55,5 @@ index.tex
 # ── Fremde OS ───────────────────────────────────────────
 .DS_Store
 Thumbs.db
+
+*.xlsx
