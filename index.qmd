@@ -32,7 +32,7 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 | 10/11/2026 | Grundlagen des Staates |
 | 12/11/2026 | Öffentliches und privates Recht |
 | 17/11/2026 | Vertiefung und Prüfungsvorbereitung |
-| 19/11/2026 | Prüfung 2: Unternehmungsmodell und Unternehmungskonzept |
+| 19/11/2026 | Prüfung 2: Unternehmungsmodell, Unternehmungskonzept und Einführung ins Recht |
 | 24/11/2026 | Gliederung von ZGB und OR |
 | 26/11/2026 | Falllösemethodik I |
 | 01/12/2026 | Falllösemethodik II |
@@ -44,7 +44,7 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 | 05/01/2027 | Personenrecht: Handlungsfähigkeit |
 | 07/01/2027 | Handlungsfähigkeit: Fälle |
 | 12/01/2027 | Fallwerkstatt und Prüfungsvorbereitung |
-| 14/01/2027 | Prüfung 3: Grundlagen des Rechts |
+| 14/01/2027 | Prüfung 3: Grundlagen des Rechts und Personenrecht |
 | 19/01/2027 | Juristische Personen |
 | 21/01/2027 | Sachenrecht: Grundbegriffe |
 | 26/01/2027 | Personen- und Sachenrecht: Abschluss |
