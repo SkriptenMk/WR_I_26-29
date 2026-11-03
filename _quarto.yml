@@ -8,6 +8,9 @@ project:
 execute:
   freeze: true                 # niemals Code beim Build neu ausführen
 
+bibliography: references.bib
+csl: chicago-notes-bibliography-classic.csl
+
 book:
   title: "Unterlagen für das Fach Wirtschaft und Recht in der Klasse 1I"
   author: "Jacques Mock Schindler"
@@ -16,6 +19,9 @@ book:
   downloads: [pdf]             # PDF-Download-Button in der HTML-Navbar
   chapters:                    # manuell gepflegtes Inhaltsverzeichnis
     - index.qmd
+    - part: "Einführung ins Recht"
+      chapters:
+      - content/261105_einf/261103_einf.md
 
 format:
   html:
