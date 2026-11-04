@@ -23,34 +23,34 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 | 17/09/2026 | Unternehmenstypologie IV |
 | 22/09/2026 | Vertiefung und Prüfungsvorbereitung |
 | 24/09/2026 | Prüfung 1: BWL-Einführung und Unternehmenstypologie |
-| 20/10/2026 | Unternehmungsmodell I |
-| 22/10/2026 | Unternehmungsmodell II |
-| 27/10/2026 | Unternehmungsmodell III |
-| 29/10/2026 | Unternehmungskonzept I |
-| 03/11/2026 | Unternehmungskonzept II |
-| 05/11/2026 | Unternehmungskonzept III |
-| 10/11/2026 | Unternehmungskonzept IV |
-| 12/11/2026 | Unternehmungskonzept V |
+| 20/10/2026 | Unternehmungskonzept I |
+| 22/10/2026 | Unternehmungskonzept II |
+| 27/10/2026 | Unternehmungskonzept III |
+| 29/10/2026 | Unternehmungskonzept IV |
+| 03/11/2026 | Unternehmungskonzept V |
+| 05/11/2026 | Rechts-Einführung: Was ist Recht? |
+| 10/11/2026 | Grundlagen des Staates |
+| 12/11/2026 | Öffentliches und privates Recht |
 | 17/11/2026 | Vertiefung und Prüfungsvorbereitung |
-| 19/11/2026 | Prüfung 2: Unternehmungsmodell und Unternehmungskonzept |
-| 24/11/2026 | Rechts-Einführung: Was ist Recht? |
-| 26/11/2026 | Grundlagen des Staates |
-| 01/12/2026 | Öffentliches und privates Recht |
-| 03/12/2026 | Gliederung von ZGB und OR |
-| 08/12/2026 | Falllösemethodik I |
-| 10/12/2026 | Falllösemethodik II |
-| 15/12/2026 | Fallübungen Rechtsordnung |
-| 17/12/2026 | Rechtsanwendung und Aktualität |
-| 05/01/2027 | Vertiefende Falllösungen |
-| 07/01/2027 | Abschluss Rechts-Einführung |
+| 19/11/2026 | Prüfung 2: Unternehmungsmodell, Unternehmungskonzept und Einführung ins Recht |
+| 24/11/2026 | Gliederung von ZGB und OR |
+| 26/11/2026 | Falllösemethodik I |
+| 01/12/2026 | Falllösemethodik II |
+| 03/12/2026 | Fallübungen Rechtsordnung |
+| 08/12/2026 | Rechtsanwendung und Aktualität |
+| 10/12/2026 | Vertiefende Falllösungen |
+| 15/12/2026 | Abschluss Rechts-Einführung |
+| 17/12/2026 | Personenrecht: Rechtsfähigkeit |
+| 05/01/2027 | Personenrecht: Handlungsfähigkeit |
+| 07/01/2027 | Handlungsfähigkeit: Fälle |
 | 12/01/2027 | Fallwerkstatt und Prüfungsvorbereitung |
-| 14/01/2027 | Prüfung 3: Grundlagen des Rechts |
-| 19/01/2027 | Personenrecht: Rechtsfähigkeit |
-| 21/01/2027 | Personenrecht: Handlungsfähigkeit |
-| 26/01/2027 | Handlungsfähigkeit: Fälle |
-| 28/01/2027 | Juristische Personen |
-| 02/02/2027 | Sachenrecht: Grundbegriffe |
-| 04/02/2027 | Personen- und Sachenrecht: Abschluss |
+| 14/01/2027 | Prüfung 3: Grundlagen des Rechts und Personenrecht |
+| 19/01/2027 | Juristische Personen |
+| 21/01/2027 | Sachenrecht: Grundbegriffe |
+| 26/01/2027 | Personen- und Sachenrecht: Abschluss |
+| 28/01/2027 | Reserve |
+| 02/02/2027 | Reserve |
+| 04/02/2027 | Reserve |
 
 
 ## Hilfsmittel für den Unterricht {.unnumbered}
