@@ -22,6 +22,7 @@ book:
     - part: "Einführung ins Recht"
       chapters:
       - content/261105_einf/261103_einf.md
+      - content/gesetze/gesetze.md
 
 format:
   html:
