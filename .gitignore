@@ -15,8 +15,8 @@
 # sonst schlägt der CI-Build fehl (kein Kernel im Runner).
 
 # ── Referenzen ──────────────────────────────────────────
-*.bib
-*.csl
+# *.bib
+# *.csl
 
 # ── Jupyter ─────────────────────────────────────────────
 .ipynb_checkpoints/
