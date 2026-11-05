@@ -23,6 +23,8 @@ book:
       chapters:
       - content/261105_einf/261103_einf.md
       - content/gesetze/gesetze.md
+  appendices: 
+    - content/anhang/literaturverzeichnis.md
 
 format:
   html:
