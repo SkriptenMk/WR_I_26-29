@@ -23,6 +23,7 @@ book:
       chapters:
       - content/261105_einf/261103_einf.md
       - content/gesetze/gesetze.md
+      - content/261109_strafrecht/261109_einteilung.md
   appendices: 
     - content/anhang/literaturverzeichnis.md
 
