@@ -39,10 +39,14 @@ Voraussetzungen' zu prüfen sind. Art. 112 StGB verlangt, das vorliegen
 einer besonderen Verwerflichkeit, Art. 113 StGB lässt hingegen
 entschuldbare Motive zu.
 
-Das Gesetz mach hier eine Stufenfolge unterschiedlicher Verwerflichkeit.
-Das stellt eine Argumentationshilfe zur Verfügung. Ob jemand wegen
+Das Gesetz sieht bei den Tötungsdelikten eine Stufenfolge
+unterschiedlicher Verwerflichkeit vor: vom Totschlag (Art. 113 StGB)
+über die vorsätzliche Tötung (Art. 111 StGB) bis zum Mord (Art. 112
+StGB). Diese Abstufung bestimmt nicht nur den Strafrahmen, sondern dient auch als Argumentationshilfe. Ob jemand wegen
 Mordes oder bloss wegen vorsätzlicher Tötung zu verurteilen ist, hängt
-davon ab, wie verwerflich die Tat ist. Man kann so mit hypothetischen
-Motiven argumentieren ('das hier vorliegende Motiv ist viel
-verwerflicher, als wenn der Täter...'). Dies entbindet einem nicht von
-einer wertenden Entscheidung, aber es hilft diese Wertung offenzulegen.
+davon ab, ob die Tat besonders verwerflich ist, also deutlich
+verwerflicher als eine gewöhnliche vorsätzliche Tötung. Man kann deshalb
+mit hypothetischen Vergleichsfällen argumentieren («Das hier vorliegende
+Motiv ist viel verwerflicher, als wenn der Täter …»). Das entbindet
+nicht von einer wertenden Entscheidung, hilft aber, diese Wertung
+offenzulegen.
