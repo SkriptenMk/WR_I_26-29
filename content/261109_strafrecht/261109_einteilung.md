@@ -30,3 +30,22 @@ Staatsebenen: Gemeinden, Kantone sowie den Bund. Aufgrund ihrer
 Eigenständigkeit sind die Gemeinwesen aller drei Staatsebenen zum Erlass
 eigener Normen zuständig. Das heisst, es gibt Normen des Bundesrechts,
 des kantonalen Rechts und solche der Gemeinden.
+
+## Thematische Einteilung der Rechtsordnung
+
+Traditionellerweise wird die Rechtsordnung thematisch in Privatrecht und
+öffentliches Recht eingeteilt. Dabei regelt das Privatrecht das
+Verhältnis von Privatpersonen untereinander, es ist geprägt vom
+Grundsatz der Kooperation. Im Gegensatz dazu regelt das öffentliche
+Recht das Verhältnis Bürger - Staat. Hier gilt der Grundsatz der
+Subordination. 
+
+Heute wird die Rechtsordnung Teilweise in drei Themenbereiche
+aufgeteilt: Privatrecht, öffentliches Recht sowie das Strafrecht als
+eigenständiges Rechtsgebiet.
+
+Die einzelnen Rechtsbereiche werden ihrerseits noch weiter unterteilt.
+So unterscheidet man im Strafrecht beispielsweise zwischen materiellem
+Strafrecht ('Welche Strafe ist für ein bestimmtes Delikt zu verhängen?')
+und Strafprozessrecht ('Wie soll der Staat bei der Aufklärung eines
+Delikts vorgehen?').
