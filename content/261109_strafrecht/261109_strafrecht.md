@@ -35,4 +35,14 @@ Um den Wortlaut der drei Bestimmungen Art. 111, 112 und 113 StGB zu
 verstehen, müssen sie zusammen gelesen werden. Das ist am Satzeil 'ohne
 dass eine der besondern Voraussetzungen der nachfolgenden Artikel
 zutrifft' zu erkennen. Das heisst, dass zuerst die 'besondern
-Voraussetzungen' zu prüfen sind.
+Voraussetzungen' zu prüfen sind. Art. 112 StGB verlangt, das vorliegen
+einer besonderen Verwerflichkeit, Art. 113 StGB lässt hingegen
+entschuldbare Motive zu.
+
+Das Gesetz mach hier eine Stufenfolge unterschiedlicher Verwerflichkeit.
+Das stellt eine Argumentationshilfe zur Verfügung. Ob jemand wegen
+Mordes oder bloss wegen vorsätzlicher Tötung zu verurteilen ist, hängt
+davon ab, wie verwerflich die Tat ist. Man kann so mit hypothetischen
+Motiven argumentieren ('das hier vorliegende Motiv ist viel
+verwerflicher, als wenn der Täter...'). Dies entbindet einem nicht von
+einer wertenden Entscheidung, aber es hilft diese Wertung offenzulegen.
