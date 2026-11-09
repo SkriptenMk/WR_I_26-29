@@ -50,3 +50,14 @@ mit hypothetischen Vergleichsfällen argumentieren («Das hier vorliegende
 Motiv ist viel verwerflicher, als wenn der Täter …»). Das entbindet
 nicht von einer wertenden Entscheidung, hilft aber, diese Wertung
 offenzulegen.
+
+Damit die eigene Argumentation einen Bezugspunkt hat, ist es Sinnvoll
+auf Lehre und Rechtsprechung abzustellen. 'Lehre' meint dabei, was an
+den Universitäten zu diesem Thema gelehrt (oder von den Professoren
+in deren Lehrbüchern ausgeführt) wird. 'Rechtsprechung', was die
+Gerichte, insbesondere das Bundesgericht, in vergleichbaren Fällen für
+Argumente angeführt haben.
+Der Rechtsanwender ist dabei nicht an die Schlussfolgerung anderer
+gebunden. Er muss sich aber mit deren Argumenten auseinandersetzen. Dies
+erhöht einerseits die Transparenz der Entscheidfindung und ermöglicht
+andererseits die Fortentwicklung des Rechts.
