@@ -22,3 +22,11 @@ Detailprobleme werden in *Verordnungen* geregelt. Ein Beispiel dafür ist
 die 
 [Verordnung zum Strafgesetzbuch, zum Militärstrafgesetz und zum
 Jugendstrafgesetz](https://www.fedlex.admin.ch/eli/cc/2006/693/de).
+
+## Einteilung der Rechtsordnung nach Staatsebene
+
+Die Schweizerische Eidgenossenschaft verfügt über drei eigenständige
+Staatsebenen: Gemeinden, Kantone sowie den Bund. Aufgrund ihrer
+Eigenständigkeit sind die Gemeinwesen aller drei Staatsebenen zum Erlass
+eigener Normen zuständig. Das heisst, es gibt Normen des Bundesrechts,
+des kantonalen Rechts und solche der Gemeinden.
