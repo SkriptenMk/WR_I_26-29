@@ -51,13 +51,18 @@ Motiv ist viel verwerflicher, als wenn der Täter …»). Das entbindet
 nicht von einer wertenden Entscheidung, hilft aber, diese Wertung
 offenzulegen.
 
-Damit die eigene Argumentation einen Bezugspunkt hat, ist es Sinnvoll
-auf Lehre und Rechtsprechung abzustellen. 'Lehre' meint dabei, was an
-den Universitäten zu diesem Thema gelehrt (oder von den Professoren
-in deren Lehrbüchern ausgeführt) wird. 'Rechtsprechung', was die
-Gerichte, insbesondere das Bundesgericht, in vergleichbaren Fällen für
-Argumente angeführt haben.
-Der Rechtsanwender ist dabei nicht an die Schlussfolgerung anderer
-gebunden. Er muss sich aber mit deren Argumenten auseinandersetzen. Dies
-erhöht einerseits die Transparenz der Entscheidfindung und ermöglicht
-andererseits die Fortentwicklung des Rechts.
+Damit die eigene Argumentation einen Bezugspunkt hat, ist es sinnvoll,
+auf Lehre und Rechtsprechung abzustellen (vgl. Art. 1 Abs. 3 ZGB). Mit
+*Lehre* ist die Rechtswissenschaft gemeint, wie sie in Lehrbüchern,
+Kommentaren und Fachaufsätzen veröffentlicht ist. Mit
+*Rechtsprechung* sind die Argumente gemeint, welche die Gerichte,
+insbesondere das Bundesgericht, in vergleichbaren Fällen angeführt
+haben.
+
+Wer das Recht anwendet, ist an die Schlussfolgerungen anderer nicht
+gebunden. Faktisch richten sich die unteren Gerichte aber nach der
+Praxis des Bundesgerichts, und dieses ändert seine Praxis nur aus
+ernsthaften Gründen. In jedem Fall muss man sich mit den Argumenten von
+Lehre und Rechtsprechung auseinandersetzen. Das sorgt dafür, dass
+gleiche Fälle gleich entschieden werden, macht die Entscheidfindung
+transparent und ermöglicht trotzdem die Fortentwicklung des Rechts.
