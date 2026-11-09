@@ -1,2 +1,26 @@
 # Einführung in die Rechtsanwendung
 
+Am Beispiel der Tötungsdelikte soll gezeigt werden, wie vorzugehen ist,
+wenn das Gesetz auszulegen ist. 
+
+Die Tötungsdelikte werden in den Art.
+111 ff. StGB geregelt.
+
+>Art. 111 StGB, Vorsätzliche Tötung
+>
+> Wer vorsätzlich einen Menschen tötet, ohne dass eine der besondern
+> Voraussetzungen der nachfolgenden Artikel zutrifft, wird mit
+> Freiheitsstrafe nicht unter fünf Jahren bestraft.
+>
+> Art. 112 StGB, Mord
+>
+> Handelt der Täter besonders skrupellos, sind namentlich sein
+> Beweggrund, der Zweck der Tat oder die Art der Ausführung besonders
+> verwerflich, so ist die Strafe lebenslängliche Freiheitsstrafe oder
+> Freiheitsstrafe nicht unter zehn Jahren.
+>
+> Art. 113 StGB, Totschlag
+>
+> Handelt der Täter in einer nach den Umständen entschuldbaren heftigen
+> Gemütsbewegung oder unter grosser seelischer Belastung, so ist die
+> Strafe Freiheitsstrafe von einem Jahr bis zu zehn Jahren. 
